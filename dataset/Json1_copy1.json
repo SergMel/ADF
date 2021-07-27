@@ -1,0 +1,19 @@
+{
+	"name": "Json1_copy1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage2",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "output2.json",
+				"container": "testcontainer2"
+			}
+		},
+		"schema": {}
+	}
+}
