@@ -1,0 +1,9 @@
+{
+	"name": "TestSergeyADF",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fc61b655-9256-4789-977f-20a53bd5379a",
+		"tenantId": "378f8d0d-3e84-4321-bf7a-2ce98c760147"
+	}
+}
